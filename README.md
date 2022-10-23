@@ -22,7 +22,7 @@ This is an example of an interface:
 ```java
 interface Animal {
     String name = "Animal";
-    void eat();
+    void eat(String plant);
 }
 ```
 
